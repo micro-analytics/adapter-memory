@@ -1,0 +1,29 @@
+{
+  "name": "micro-analytics-adapter-memory",
+  "version": "0.0.1",
+  "description": "An in memory adapter for micro-analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write --flow-parser --single-quote --print-width 100 **.js",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micro-analytics/adapter-memory.git"
+  },
+  "author": "Rolf Erik Lekang <me@rolflekang.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micro-analytics/adapter-memory/issues"
+  },
+  "homepage": "https://github.com/micro-analytics/adapter-memory#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "micro-analytics-cli": "1.2.0-11",
+    "prettier": "^0.0.5",
+    "standard-version": "^4.0.0"
+  }
+}
