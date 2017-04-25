@@ -1,6 +1,6 @@
 {
   "name": "micro-analytics-adapter-memory",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An in memory adapter for micro-analytics",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
     "url": "https://github.com/micro-analytics/adapter-memory/issues"
   },
   "homepage": "https://github.com/micro-analytics/adapter-memory#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^19.0.2",
     "micro-analytics-cli": "1.2.0-11",
