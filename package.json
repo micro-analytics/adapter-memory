@@ -21,7 +21,7 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^19.0.2",
-    "micro-analytics-cli": "1.2.0-11",
+    "micro-analytics-cli": "^2.1.0",
     "prettier": "^0.0.5",
     "standard-version": "^4.0.0"
   }
