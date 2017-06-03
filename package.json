@@ -1,6 +1,6 @@
 {
   "name": "micro-analytics-adapter-memory",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An in memory adapter for micro-analytics",
   "main": "index.js",
   "scripts": {
