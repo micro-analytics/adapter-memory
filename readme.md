@@ -2,6 +2,8 @@
 
 This is an in-memory adapter for [micro-analytics][].
 
+## ⚠️  This package is now moved into the [main micro-analytics repository](https://github.com/micro-analytics/micro-analytics-cli)
+
 #### Why would you want to to use an in memory adapter for micro-analytics?
 
 It can be useful for testing and when deploying test deployments to now.sh.
